@@ -1,9 +1,11 @@
 # Discrete-Mathematics-Algorithms
-Hi, this a project of some implementations of discrete mathematics algorithems.
+This project provides the implementations of some discrete mathematics algorithems, in C++.
 
-Currently, they are all Windows Console Applications.
-
-Please contact me if you have any questions or comments.
+Currently, we have:
+- Articulation Points
+- Dijkstra
+- Floyd
+- Strongly Connected Component
 
 
 
