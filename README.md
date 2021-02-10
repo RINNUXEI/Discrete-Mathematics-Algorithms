@@ -1,7 +1,5 @@
 # Discrete-Mathematics-Algorithms
-This project provides the implementations of some discrete mathematics algorithems, in C++.
-
-Currently, we have:
+C++ implementations of the following algorithems.
 - Articulation Points
 - Dijkstra
 - Floyd
